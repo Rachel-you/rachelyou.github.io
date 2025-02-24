@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>RY&#39;s pit</title>
-    <link>//localhost:1313/</link>
-    <description>Recent content on RY&#39;s pit</description>
+    <title>ETL on RY&#39;s pit</title>
+    <link>//localhost:1313/tags/etl/</link>
+    <description>Recent content in ETL on RY&#39;s pit</description>
     <image>
       <title>RY&#39;s pit</title>
       <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -11,15 +11,8 @@
     </image>
     <generator>Hugo -- 0.144.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Feb 2025 12:00:00 +0800</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Who is Rachel You?</title>
-      <link>//localhost:1313/about/</link>
-      <pubDate>Tue, 18 Feb 2025 12:00:00 +0800</pubDate>
-      <guid>//localhost:1313/about/</guid>
-      <description>Data scientist by day, wave chaser and light hunter by sunset. When I&amp;#39;m not crunching numbers, you&amp;#39;ll find me catching waves or capturing life&amp;#39;s moments through my lens. Living life in pixels and surf breaks! 🌊📸</description>
-    </item>
+    <lastBuildDate>Sun, 01 Dec 2024 12:00:00 +0800</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/etl/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Crystal Synergy Project</title>
       <link>//localhost:1313/projects/project1/</link>
