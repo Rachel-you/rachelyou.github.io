@@ -60,7 +60,7 @@ params:
         url: "/projects/"
       - name: Tags
         url: "/tags/"
-    imageUrl: "./images/profile1.png"
+    imageUrl: "/images/profile.png"
     imageHeight: 120
     imageWidth: 120
 
