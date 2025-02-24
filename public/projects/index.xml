@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Projects on RY&#39;s pit</title>
-    <link>//localhost:63444/projects/</link>
+    <link>//localhost:59890/projects/</link>
     <description>Recent content in Projects on RY&#39;s pit</description>
     <image>
       <title>RY&#39;s pit</title>
-      <url>//localhost:63444/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>//localhost:63444/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>//localhost:59890/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>//localhost:59890/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.144.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Dec 2024 12:00:00 +0800</lastBuildDate>
-    <atom:link href="//localhost:63444/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:59890/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Crystal Synergy Project</title>
-      <link>//localhost:63444/projects/project1/</link>
+      <link>//localhost:59890/projects/project1/</link>
       <pubDate>Sun, 01 Dec 2024 12:00:00 +0800</pubDate>
-      <guid>//localhost:63444/projects/project1/</guid>
+      <guid>//localhost:59890/projects/project1/</guid>
       <description>Analysis of a crystal reward company&amp;#39;s revenue performance focusing on sales trends, market segmentation, and strategic recommendations for growth optimization.</description>
     </item>
     <item>
       <title>Dream Homes NYC</title>
-      <link>//localhost:63444/projects/project2/</link>
+      <link>//localhost:59890/projects/project2/</link>
       <pubDate>Mon, 05 Aug 2024 12:00:00 +0800</pubDate>
-      <guid>//localhost:63444/projects/project2/</guid>
+      <guid>//localhost:59890/projects/project2/</guid>
       <description>Dream Homes NYC is a real estate agency servicing the Tri-State area (NY, NJ, CT). They connect home sellers with potential buyers and homeowners with renters. The company aims to modernize its systems and build a database for organizing corporate data, client transactions, properties, and agent operations.
 The objective is to create a robust database that improves efficiency, supports future analytics, and integrates with potential app development.</description>
     </item>
     <item>
       <title>Impact of Education and Technology Investments on AI Competitiveness in Global Economy</title>
-      <link>//localhost:63444/projects/project3/</link>
+      <link>//localhost:59890/projects/project3/</link>
       <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:63444/projects/project3/</guid>
+      <guid>//localhost:59890/projects/project3/</guid>
       <description>This project explores the critical role of artificial intelligence (AI) in shaping countries&amp;#39; economic competitiveness, emphasizing key factors influencing national AI capabilities. The study employs cluster analysis, comparative analysis, and predictive models to address key research questions.</description>
     </item>
     <item>
       <title>An ETL-Powered Search Tool for In-Depth Accident Data Insights</title>
-      <link>//localhost:63444/projects/project4/</link>
+      <link>//localhost:59890/projects/project4/</link>
       <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:63444/projects/project4/</guid>
+      <guid>//localhost:59890/projects/project4/</guid>
       <description>This project explores the critical role of artificial intelligence (AI) in shaping countries&amp;#39; economic competitiveness, emphasizing key factors influencing national AI capabilities. The study employs cluster analysis, comparative analysis, and predictive models to address key research questions.</description>
     </item>
     <item>
       <title>Netflix in the Snack Industry</title>
-      <link>//localhost:63444/projects/project5/</link>
+      <link>//localhost:59890/projects/project5/</link>
       <pubDate>Mon, 04 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:63444/projects/project5/</guid>
+      <guid>//localhost:59890/projects/project5/</guid>
       <description>&lt;h2 id=&#34;netflix-overview&#34;&gt;&lt;strong&gt;Netflix Overview&lt;/strong&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Industry:&lt;/strong&gt; Media-streaming and video rental&lt;/li&gt;

@@ -4,6 +4,7 @@ description: "Dream Homes NYC is a real estate agency servicing the Tri-State ar
 
 The objective is to create a robust database that improves efficiency, supports future analytics, and integrates with potential app development."
 date: 2024-08-05T12:00:00+08:00
+tags: ["SQL", "Python", "Data Visualization", "css", "ETL", "MongoDB", "Metabase"]
 draft: false
 ---
 

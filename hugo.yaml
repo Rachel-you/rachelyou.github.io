@@ -51,8 +51,6 @@ params:
 
   label:
     text: "RY's Pit"
-    icon: /apple-touch-icon.png
-    iconHeight: 35
 
   # profile-mode
   profileMode:
@@ -61,7 +59,7 @@ params:
     Subtitle: Welcome to my pit stop. Dig in and stay awhile:)
     buttons:
       - name: About
-        url: /about/
+        url: /About/
       - name: Projects
         url: /projects/
       - name: Tags
