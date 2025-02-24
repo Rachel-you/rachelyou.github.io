@@ -53,6 +53,3 @@ A crystal reward company's sales analysis reveals strong growth through 2023, wi
 2. Expand digital marketing presence
 3. Strengthen mid-market client base
 4. Develop region-specific growth plans
-
-## Appendix
-[Figures 1-8: Sales metrics and distribution analyses]
