@@ -11,39 +11,29 @@
     <loc>//localhost:1313/projects/project1/</loc>
     <lastmod>2024-12-01T12:00:00+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/css/</loc>
-    <lastmod>2024-12-01T12:00:00+08:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/data-visualization/</loc>
-    <lastmod>2024-12-01T12:00:00+08:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/etl/</loc>
-    <lastmod>2024-12-01T12:00:00+08:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/flask/</loc>
-    <lastmod>2024-12-01T12:00:00+08:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/html/</loc>
-    <lastmod>2024-12-01T12:00:00+08:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/mongodb/</loc>
-    <lastmod>2024-12-01T12:00:00+08:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/projects/</loc>
     <lastmod>2024-12-01T12:00:00+08:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/categories/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/css/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/data-visualization/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/etl/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/flask/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/html/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/mongodb/</loc>
+  </url><url>
     <loc>//localhost:1313/tags/python/</loc>
-    <lastmod>2024-12-01T12:00:00+08:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/sql/</loc>
-    <lastmod>2024-12-01T12:00:00+08:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/tableau/</loc>
-    <lastmod>2024-12-01T12:00:00+08:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/</loc>
-    <lastmod>2024-12-01T12:00:00+08:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/categories/</loc>
   </url>
 </urlset>
