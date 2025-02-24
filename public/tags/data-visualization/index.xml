@@ -4,11 +4,6 @@
     <title>Data Visualization on RY&#39;s Pit</title>
     <link>http://localhost:1313/tags/data-visualization/</link>
     <description>Recent content in Data Visualization on RY&#39;s Pit</description>
-    <image>
-      <title>RY&#39;s Pit</title>
-      <url>http://localhost:1313/images/opengraph-image.png</url>
-      <link>http://localhost:1313/images/opengraph-image.png</link>
-    </image>
     <generator>Hugo -- 0.144.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Dec 2024 12:00:00 +0800</lastBuildDate>
@@ -19,6 +14,45 @@
       <pubDate>Sun, 01 Dec 2024 12:00:00 +0800</pubDate>
       <guid>http://localhost:1313/projects/project1/</guid>
       <description>Analysis of a crystal reward company&amp;#39;s revenue performance focusing on sales trends, market segmentation, and strategic recommendations for growth optimization.</description>
+    </item>
+    <item>
+      <title>Dream Homes NYC</title>
+      <link>http://localhost:1313/projects/project2/</link>
+      <pubDate>Mon, 05 Aug 2024 12:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/projects/project2/</guid>
+      <description>Dream Homes NYC is a real estate agency servicing the Tri-State area (NY, NJ, CT). They connect home sellers with potential buyers and homeowners with renters. The company aims to modernize its systems and build a database for organizing corporate data, client transactions, properties, and agent operations.
+The objective is to create a robust database that improves efficiency, supports future analytics, and integrates with potential app development.</description>
+    </item>
+    <item>
+      <title>An ETL-Powered Search Tool for In-Depth Accident Data Insights</title>
+      <link>http://localhost:1313/projects/project4/</link>
+      <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/project4/</guid>
+      <description>This project explores the critical role of artificial intelligence (AI) in shaping countries&amp;#39; economic competitiveness, emphasizing key factors influencing national AI capabilities. The study employs cluster analysis, comparative analysis, and predictive models to address key research questions.</description>
+    </item>
+    <item>
+      <title>Netflix in the Snack Industry</title>
+      <link>http://localhost:1313/projects/project5/</link>
+      <pubDate>Mon, 04 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/project5/</guid>
+      <description>&lt;h2 id=&#34;netflix-overview&#34;&gt;&lt;strong&gt;Netflix Overview&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Industry:&lt;/strong&gt; Media-streaming and video rental&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Founded:&lt;/strong&gt; 1997&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Original Content:&lt;/strong&gt; Since 2013, Netflix has offered video content produced specifically for its streaming service.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Content Library:&lt;/strong&gt; By the end of 2021, Netflix had over &lt;strong&gt;2,400 original titles&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; &lt;a href=&#34;https://backlinko.com&#34;&gt;Backlinko&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;netflix-in-the-streaming-industry&#34;&gt;&lt;strong&gt;Netflix in the Streaming Industry&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Netflix was never expected to be the only online video platform.&lt;/li&gt;
+&lt;li&gt;Shift from a streaming service to a full-fledged &lt;strong&gt;entertainment company&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Catalog Access Shrinkage:&lt;/strong&gt; Transitioning to an entertainment company meant less reliance on third-party content.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Competitive Market:&lt;/strong&gt; Increased competition from Disney+, Hulu, HBO Max, Prime Video, and others.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Market Share Impact:&lt;/strong&gt; New streaming platforms have threatened Netflix’s dominance.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
