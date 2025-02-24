@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cluster Analysis on RY&#39;s Pit</title>
+    <link>http://localhost:1313/tags/cluster-analysis/</link>
+    <description>Recent content in Cluster Analysis on RY&#39;s Pit</description>
+    <image>
+      <title>RY&#39;s Pit</title>
+      <url>http://localhost:1313/images/opengraph-image.png</url>
+      <link>http://localhost:1313/images/opengraph-image.png</link>
+    </image>
+    <generator>Hugo -- 0.144.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 04 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/cluster-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Impact of Education and Technology Investments on AI Competitiveness in Global Economy</title>
+      <link>http://localhost:1313/projects/project3/</link>
+      <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/project3/</guid>
+      <description>This project explores the critical role of artificial intelligence (AI) in shaping countries&amp;#39; economic competitiveness, emphasizing key factors influencing national AI capabilities. The study employs cluster analysis, comparative analysis, and predictive models to address key research questions.</description>
+    </item>
+  </channel>
+</rss>
