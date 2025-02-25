@@ -2,81 +2,81 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2025-02-18T12:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>//localhost:1313/about/</loc>
     <lastmod>2025-02-18T12:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/project1/</loc>
+    <loc>//localhost:1313/projects/project1/</loc>
     <lastmod>2024-12-01T12:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/css/</loc>
+    <loc>//localhost:1313/tags/css/</loc>
     <lastmod>2024-12-01T12:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/data-visualization/</loc>
+    <loc>//localhost:1313/tags/data-visualization/</loc>
     <lastmod>2024-12-01T12:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/etl/</loc>
+    <loc>//localhost:1313/tags/etl/</loc>
     <lastmod>2024-12-01T12:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/flask/</loc>
+    <loc>//localhost:1313/tags/flask/</loc>
     <lastmod>2024-12-01T12:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/html/</loc>
+    <loc>//localhost:1313/tags/html/</loc>
     <lastmod>2024-12-01T12:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/mongodb/</loc>
+    <loc>//localhost:1313/tags/mongodb/</loc>
     <lastmod>2024-12-01T12:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>//localhost:1313/projects/</loc>
     <lastmod>2024-12-01T12:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/python/</loc>
+    <loc>//localhost:1313/tags/python/</loc>
     <lastmod>2024-12-01T12:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/sql/</loc>
+    <loc>//localhost:1313/tags/sql/</loc>
     <lastmod>2024-12-01T12:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/tableau/</loc>
+    <loc>//localhost:1313/tags/tableau/</loc>
     <lastmod>2024-12-01T12:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
     <lastmod>2024-12-01T12:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/project2/</loc>
+    <loc>//localhost:1313/projects/project2/</loc>
     <lastmod>2024-08-05T12:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/metabase/</loc>
+    <loc>//localhost:1313/tags/metabase/</loc>
     <lastmod>2024-08-05T12:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ai/</loc>
+    <loc>//localhost:1313/tags/ai/</loc>
     <lastmod>2024-05-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/cluster-analysis/</loc>
+    <loc>//localhost:1313/tags/cluster-analysis/</loc>
     <lastmod>2024-05-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/project3/</loc>
+    <loc>//localhost:1313/projects/project3/</loc>
     <lastmod>2024-05-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/r/</loc>
+    <loc>//localhost:1313/tags/r/</loc>
     <lastmod>2024-05-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/research/</loc>
+    <loc>//localhost:1313/tags/research/</loc>
     <lastmod>2024-05-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/time-series-analysis/</loc>
+    <loc>//localhost:1313/tags/time-series-analysis/</loc>
     <lastmod>2024-05-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/project4/</loc>
+    <loc>//localhost:1313/projects/project4/</loc>
     <lastmod>2024-04-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/marketing/</loc>
+    <loc>//localhost:1313/tags/marketing/</loc>
     <lastmod>2023-12-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/project5/</loc>
+    <loc>//localhost:1313/projects/project5/</loc>
     <lastmod>2023-12-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>//localhost:1313/categories/</loc>
   </url>
 </urlset>
