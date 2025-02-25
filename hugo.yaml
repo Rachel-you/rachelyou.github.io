@@ -39,11 +39,11 @@ params:
   tocopen: false
 
   assets:
-    favicon: "/images/favicon.ico"
-    favicon16x16: "/images/favicon-16x16.png"
-    favicon32x32: "/images/favicon-32x32.png"
-    apple_touch_icon: "/images/apple-touch-icon.png"
-    safari_pinned_tab: "/images/safari-pinned-tab.svg"
+    favicon: "./images/favicon.ico"
+    favicon16x16: "./images/favicon-16x16.png"
+    favicon32x32: "./images/favicon-32x32.png"
+    apple_touch_icon: "./images/apple-touch-icon.png"
+    safari_pinned_tab: "./images/safari-pinned-tab.svg"
 
   label:
     text: "RY's Pit"
@@ -60,7 +60,7 @@ params:
         url: "/projects/"
       - name: Tags
         url: "/tags/"
-    imageUrl: "/images/profile.png"
+    imageUrl: "./images/profile.png"
     imageHeight: 120
     imageWidth: 120
 
